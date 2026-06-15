@@ -1,6 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
 N:Atria;Devon;;;
+<img src="konapanda.jpg" alt="My Profile Picture">
 FN:Devon Atria, DVM
 ORG:Acacia Animal Hospital
 TITLE:Veterinarian
